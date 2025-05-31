@@ -16,7 +16,7 @@
 #define MAX_LEN 200
 #define NUM_COLORS 6
 #define SERVER_PASSWORD "WCHAT5"
-#define GEMINI_API_KEY "AIzaSyCcdhOA_O_7qVHtbsAQ1y7Jhde2hHMtEwI"
+#define GEMINI_API_KEY "ENter Yore API KEY"
 #define GEMINI_API_URL "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=" GEMINI_API_KEY
 
 #pragma comment(lib, "ws2_32.lib")
